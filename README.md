@@ -37,4 +37,4 @@ When you confirm your guess, the game calculates the distance between your guess
 
 Clone this repository:
 
-git clone https://github.com/yourusername/offbrand-geoguesser.git
+git clone https://github.com/BitSamuraiX/MapMaster.git
